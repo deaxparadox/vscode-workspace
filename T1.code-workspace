@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../ArtOfDSA"
+		},
+		{
+			"path": "../ArtOfC"
+		},
+		{
+			"path": "../ArtOfRust"
+		}
+	]
+}
